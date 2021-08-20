@@ -1,0 +1,25 @@
+{
+  "name": "udemy_next_js_apollo_graghql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "webpack": "^5.51.1"
+  }
+}
